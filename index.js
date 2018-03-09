@@ -16,5 +16,6 @@ function johnLennonFacts(array){
 
 function iLoveTheBeatles(n){
  var x= [] 
- do 
+ do x=x + "I love the Beatles!"
+ while 
 }
