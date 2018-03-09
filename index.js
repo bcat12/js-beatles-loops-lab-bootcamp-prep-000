@@ -16,6 +16,7 @@ function johnLennonFacts(array){
 
 function iLoveTheBeatles(n){
  var x= [] 
- do x=x + "I love the Beatles!"
- while n<15
+ do {x=x + "I love the Beatles!"
+     n++}
+while( n<15)
 }
